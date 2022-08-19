@@ -15,7 +15,7 @@
 <h2>:busts_in_silhouette: How to reach me</h2>
 
 <div style="display: flex">
-  <a href="https://linkedin.com/in/antoniocsmfilho" target="blank"><img align="center" src="/assets/linkedin.svg" width="50px"/></a>
+  <a href="https://www.linkedin.com/in/antoniodots" target="blank"><img align="center" src="/assets/linkedin.svg" width="50px"/></a>
   <a href="https://stackoverflow.com/users/..." target="blank"><img align="center" src="assets/stackoverflow.svg" width="50px"/></a>
   <a href="https://medium.com/..." target="blank"><img align="center" src="assets/medium.svg" width="50px" /></a>
   <a href="mailto:antonio.s.trab@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" width="50px" /></a>
