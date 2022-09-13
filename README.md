@@ -1,8 +1,6 @@
 # Hi, welcome to my GitHub! <img width="30" src="https://slackmojis.com/emojis/7421-typingcat/download" alt="party blob" /><img width="30" src="https://slackmojis.com/emojis/28594-typing_computer/download" alt="party blob" />
 
-<p  align="center"><img src="https://github.com/antoniodots/antoniodots/blob/main/assets/line.gif"><br></p>
 <p  align="center"><img src="https://github.com/antoniodots/antoniodots/blob/main/assets/computer.png"><br></p>
-<p  align="center"><img src="https://github.com/antoniodots/antoniodots/blob/main/assets/line.gif"><br></p>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 
