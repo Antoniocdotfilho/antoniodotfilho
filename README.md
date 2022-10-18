@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/antoniodotc" target="blank"><img align="center" src="/assets/linkedin.svg" width="50px"/></a>
   <a href="https://stackoverflow.com/users/..." target="blank"><img align="center" src="assets/stackoverflow.svg" width="50px"/></a>
   <a href="https://medium.com/..." target="blank"><img align="center" src="assets/medium.svg" width="50px" /></a>
-  <a href="mailto:antonio.s.trab@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" width="50px" /></a>
+  <a href="mailto:antoniodotc@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" width="50px" /></a>
 </div>
 
 <h2>:bulb: Languages & Frameworks</h2>
