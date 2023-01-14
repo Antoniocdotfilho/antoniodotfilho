@@ -28,31 +28,6 @@
   <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/344/blender-3d.png" width="25px" /></a>
 </div>
 
-</br></br>
-
-## 📕 Pinned Repositories
-
-<p align="center">
-<a href="https://github.com/antoniodotc/Project_COVID19_UPDATE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniodotc&repo=Project_COVID19_UPDATE&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/antoniodotc/Project_Flags">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniodotc&repo=Project_Flags&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/antoniodotc/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoniodotc&repo=portfolio&theme=radical&hide_border=true" />
-</a>
-
-</p>
-
-**Github Stats:**
-
-<div align="center">
-<img width="843em" src="https://activity-graph.herokuapp.com/graph?username=antoniodotc&bg_color=141321&color=fd418d&line=ff00ee&point=403d3d&area=true&hide_border=true">
-</div>
-
 ---
 
 <p  align="center">
