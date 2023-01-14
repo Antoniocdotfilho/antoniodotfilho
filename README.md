@@ -27,8 +27,3 @@
   <a href="https://www.adobe.com/products/photoshop.html"><img src="/assets/adobephotoshop.svg" width="25px" /></a>
   <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/344/blender-3d.png" width="25px" /></a>
 </div>
-
----
-
-<p  align="center">
-<img alt="snake animation" src="https://raw.githubusercontent.com/antoniodotc/antoniodotc/184d994ec078e1b4ac89221a7ea2518293283cbb/assets/github-contribution-grid-snake.svg"></p>
