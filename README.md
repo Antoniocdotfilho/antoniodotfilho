@@ -1,4 +1,4 @@
-## Hey there, I'm Antôniodotc👋 - <a href="https://www.linkedin.com/in/antoniodotc" target="blank"><img align="center" src="/assets/linkedin.svg" width="25px"/></a> <a href="https://stackoverflow.com/users/..." target="blank"><img align="center" src="assets/stackoverflow.svg" width="25px"/></a> <a href="https://medium.com/..." target="blank"><img align="center" src="assets/medium.svg" width="25px" /></a> <a href="mailto:antoniodotc@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" width="25px" /></a> <a href="https://antoniodotc.github.io/" target="_blank" target="blank"><img align="center" src="/assets/GitHub.png" width="25px" /></a>
+## Hey there, I'm Antôniodotc👋 - <a href="https://www.linkedin.com/in/antoniodotfilho" target="blank"><img align="center" src="/assets/linkedin.svg" width="25px"/></a> <a href="https://stackoverflow.com/users/..." target="blank"><img align="center" src="assets/stackoverflow.svg" width="25px"/></a> <a href="https://medium.com/..." target="blank"><img align="center" src="assets/medium.svg" width="25px" /></a> <a href="mailto:antoniodotfilho@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" width="25px" /></a> <a href="https://antoniodotfilho.github.io/" target="_blank" target="blank"><img align="center" src="/assets/GitHub.png" width="25px" /></a>
 
 <h4>💡 Languages & Frameworks</h4> 
 
@@ -22,7 +22,7 @@
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25px" /></a>
   <a href="https://www.gimp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="25px" /></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25px" /></a>
-  <a href="https://www.adobe.com/products/illustrator/free-trial-download.html"><img src="https://github.com/antoniodotc/antoniodotc/blob/main/assets/adobeillustrator.svg" width="25px" /></a>
+  <a href="https://www.adobe.com/products/illustrator/free-trial-download.html"><img src="https://github.com/antoniodotfilho/antoniodotfilho/blob/main/assets/adobeillustrator.svg" width="25px" /></a>
   <a href="https://www.torproject.org/"><img src="https://img.icons8.com/cute-clipart/344/tor-browser.png" width="25px" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="/assets/adobephotoshop.svg" width="25px" /></a>
   <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/344/blender-3d.png" width="25px" /></a>
